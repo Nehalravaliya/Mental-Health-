@@ -18,7 +18,7 @@ input.addEventListener("keypress", function(event) {
   }
 });
 
-const apiKey = "" //Insert openai key here
+const apiKey = "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" //Insert openai key here
 const apiUrl = 'https://api.openai.com/v1/chat/completions';
 
 //change the instruction
